@@ -8,3 +8,10 @@
 Hello! My name is Boshen and I am currently developing [Oxc](https://github.com/Boshen/oxc), a collection of high-performance tools for JavaScript and TypeScript.
 
 Oxc is a MIT licensed open source project and completely free to use. Your [sponsorship](https://github.com/sponsors/Boshen) will help the sustainability of the project.
+
+---
+
+I also maintain these helpful tools:
+
+* [cargo-shear](https://github.com/Boshen/cargo-shear): Detect and remove unused dependencies from Cargo.toml in Rust projects.
+* [criterion2.rs](https://github.com/Boshen/criterion2.rs): Keep criterion updated with renovate bot.

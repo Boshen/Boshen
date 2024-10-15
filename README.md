@@ -5,9 +5,9 @@
   </picture>
 </p>
 
-Hello! My name is Boshen and I am currently developing [Oxc](https://github.com/Boshen/oxc), a collection of high-performance tools for JavaScript and TypeScript.
+Hello! My name is Boshen and I am currently developing [Oxc](https://oxc.rs), a collection of high-performance tools for JavaScript and TypeScript.
 
-Oxc is a MIT licensed open source project and completely free to use.
+Oxc is an MIT licensed open source project and completely free to use.
 
 Your [sponsorship](https://github.com/sponsors/Boshen) will help the sustainability of the project.
 

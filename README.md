@@ -16,12 +16,3 @@ Your [sponsorship](https://github.com/sponsors/Boshen) will help the sustainabil
     <img src="https://raw.githubusercontent.com/Boshen/sponsors/main/sponsors.svg" alt="My sponsors" />
   </a>
 </p>
-
----
-
-I also maintain these helpful tools:
-
-* [cargo-shear](https://github.com/Boshen/cargo-shear): Detect and remove unused dependencies from Cargo.toml in Rust projects.
-* [criterion2.rs](https://github.com/Boshen/criterion2.rs): Keep criterion updated with renovate bot.
-* [json-strip-comments](https://github.com/oxc-project/json-strip-comments): Strip JSON comments and trailing commas in place.
-* [unicode-id-start](https://github.com/oxc-project/unicode-id-start): Implementation of Unicode Standard Annex #31 (ID_Start and ID_Continue) for determining which char values are valid in programming language (mainly JavaScript) identifiers.

@@ -5,12 +5,6 @@
   </picture>
 </p>
 
-Hello! My name is Boshen and I am currently developing [Oxc](https://oxc.rs), a collection of high-performance tools for JavaScript and TypeScript.
-
-Oxc is an MIT licensed open source project and completely free to use.
-
-Your [sponsorship](https://github.com/sponsors/Boshen) will help the sustainability of the project.
-
 <p align="center">
   <a href="https://github.com/sponsors/Boshen">
     <img src="https://raw.githubusercontent.com/Boshen/sponsors/main/sponsors.svg" alt="My sponsors" />

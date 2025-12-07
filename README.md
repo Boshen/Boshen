@@ -17,7 +17,7 @@ I build high-performance JavaScript and Rust tooling and contribute across the e
 
 Sponsorship helps me keep improving the JavaScript and Rust ecosystems while preventing burnout from maintaining fast and evolving tools in my personal time.
 
-If my work has improved your CI, your development experience, your builds, or your learning, sponsoring meaningfully supports this effort.
+If my work has improved your development experience, your CI pipelines, your build times, or your learning in any way, please consider sponsoring. It helps more than you might think, and it truly keeps the motivation alive.
 
 ### ⭐ Sponsor Visibility
 

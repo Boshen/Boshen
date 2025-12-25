@@ -25,7 +25,7 @@ Sponsors will have their avatars showcased across the Oxc ecosystem—including 
 
 You may also sponsor via Open Collective: https://opencollective.com/oxc
 
-### Cuurent Sponsors
+### Current Sponsors
 
 <p align="center">
   <a href="https://github.com/sponsors/Boshen">

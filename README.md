@@ -35,13 +35,13 @@ You may also sponsor via Open Collective: https://opencollective.com/oxc
 
 ### Projects I maintain
 
-| npmjs.com | Weekly Downloads |
+| npmx.dev | Weekly Downloads |
 | --------- | ---------------- |
-| [rolldown](https://www.npmjs.com/package/rolldown) | ![NPM Downloads](https://img.shields.io/npm/dw/rolldown?label=npm) |
-| [oxlint](https://npmjs.com/package/oxlint) | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint?label=npm) |
-| [oxlint-tsgolint](https://npmjs.com/package/oxlint-tsgolint) | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint-tsgolint?label=npm) |
-| [oxfmt](https://npmjs.com/package/oxfmt) | ![NPM Downloads](https://img.shields.io/npm/dw/oxfmt?label=npm) |
-| [oxc-parser](https://www.npmjs.com/package/oxc-parser) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-parser?label=npm) |
-| [oxc-transform](https://www.npmjs.com/package/oxc-transform) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-transform?label=npm) |
-| [oxc-minify](https://www.npmjs.com/package/oxc-minify) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-minify?label=npm) |
-| [oxc-resolver](https://www.npmjs.com/package/oxc-resolver) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-resolver?label=npm) |
+| [rolldown](https://npmx.dev/package/rolldown) | ![NPM Downloads](https://img.shields.io/npm/dw/rolldown?label=npm) |
+| [oxlint](https://npmx.dev/package/oxlint) | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint?label=npm) |
+| [oxlint-tsgolint](https://npmx.dev/package/oxlint-tsgolint) | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint-tsgolint?label=npm) |
+| [oxfmt](https://npmx.dev/package/oxfmt) | ![NPM Downloads](https://img.shields.io/npm/dw/oxfmt?label=npm) |
+| [oxc-parser](https://npmx.dev/package/oxc-parser) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-parser?label=npm) |
+| [oxc-transform](https://npmx.dev/package/oxc-transform) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-transform?label=npm) |
+| [oxc-minify](https://npmx.dev/package/oxc-minify) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-minify?label=npm) |
+| [oxc-resolver](https://npmx.dev/package/oxc-resolver) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-resolver?label=npm) |

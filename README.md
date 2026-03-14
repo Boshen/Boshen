@@ -37,6 +37,7 @@ You may also sponsor via Open Collective: https://opencollective.com/oxc
 
 | npmx.dev | Weekly Downloads |
 | --------- | ---------------- |
+| [vite-plus](https://npmx.dev/package/vite-plus) | ![NPM Downloads](https://img.shields.io/npm/dw/vite-plus?label=npm) |
 | [rolldown](https://npmx.dev/package/rolldown) | ![NPM Downloads](https://img.shields.io/npm/dw/rolldown?label=npm) |
 | [oxlint](https://npmx.dev/package/oxlint) | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint?label=npm) |
 | [oxlint-tsgolint](https://npmx.dev/package/oxlint-tsgolint) | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint-tsgolint?label=npm) |

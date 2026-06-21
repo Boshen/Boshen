@@ -2,7 +2,7 @@ Hi, I’m Boshen.
 
 Creator of [Oxc](https://oxc.rs), [oxlint](https://oxc.rs/docs/guide/usage/linter.html) and [oxfmt](https://oxc.rs/docs/guide/usage/formatter.html).
 
-VP Engineering at [VoidZero](https://voidzero.dev), helping make [Vite](http://vite.dev) faster through [Rolldown](https://rolldown.rs).
+Engineering at [VoidZero](https://voidzero.dev), helping make [Vite](http://vite.dev) faster through [Rolldown](https://rolldown.rs).
 
 I build high-performance JavaScript and Rust tooling and contribute across the ecosystem to make open source faster, safer, and better for everyone.
 

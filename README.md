@@ -19,12 +19,6 @@ Sponsorship helps me keep improving the JavaScript and Rust ecosystems while pre
 
 If my work has improved your development experience, your CI pipelines, your build times, or your learning in any way, please consider sponsoring. It helps more than you might think, and it truly keeps the motivation alive.
 
-### ⭐ Sponsor Visibility
-
-Sponsors will have their avatars showcased across the Oxc ecosystem—including GitHub, the project website, documentation, and major READMEs—as shown below.
-
-You may also sponsor via Open Collective: https://opencollective.com/oxc
-
 ### Current Sponsors
 
 <p align="center">

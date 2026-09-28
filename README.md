@@ -31,8 +31,6 @@ If my work has improved your development experience, your CI pipelines, your bui
 
 | npmx.dev | Weekly Downloads |
 | --------- | ---------------- |
-| [vite-plus](https://npmx.dev/package/vite-plus) | ![NPM Downloads](https://img.shields.io/npm/dw/vite-plus?label=npm) |
-| [rolldown](https://npmx.dev/package/rolldown) | ![NPM Downloads](https://img.shields.io/npm/dw/rolldown?label=npm) |
 | [oxlint](https://npmx.dev/package/oxlint) | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint?label=npm) |
 | [oxlint-tsgolint](https://npmx.dev/package/oxlint-tsgolint) | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint-tsgolint?label=npm) |
 | [oxfmt](https://npmx.dev/package/oxfmt) | ![NPM Downloads](https://img.shields.io/npm/dw/oxfmt?label=npm) |
@@ -41,3 +39,5 @@ If my work has improved your development experience, your CI pipelines, your bui
 | [oxc-transform-react](https://npmx.dev/package/oxc-transform-react) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-transform-react?label=npm) |
 | [oxc-minify](https://npmx.dev/package/oxc-minify) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-minify?label=npm) |
 | [oxc-resolver](https://npmx.dev/package/oxc-resolver) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-resolver?label=npm) |
+| [rolldown](https://npmx.dev/package/rolldown) | ![NPM Downloads](https://img.shields.io/npm/dw/rolldown?label=npm) |
+| [vite-plus](https://npmx.dev/package/vite-plus) | ![NPM Downloads](https://img.shields.io/npm/dw/vite-plus?label=npm) |

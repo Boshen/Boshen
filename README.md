@@ -38,5 +38,6 @@ If my work has improved your development experience, your CI pipelines, your bui
 | [oxfmt](https://npmx.dev/package/oxfmt) | ![NPM Downloads](https://img.shields.io/npm/dw/oxfmt?label=npm) |
 | [oxc-parser](https://npmx.dev/package/oxc-parser) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-parser?label=npm) |
 | [oxc-transform](https://npmx.dev/package/oxc-transform) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-transform?label=npm) |
+| [oxc-transform-react](https://npmx.dev/package/oxc-transform-react) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-transform-react?label=npm) |
 | [oxc-minify](https://npmx.dev/package/oxc-minify) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-minify?label=npm) |
 | [oxc-resolver](https://npmx.dev/package/oxc-resolver) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-resolver?label=npm) |

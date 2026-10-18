@@ -10,6 +10,7 @@ I build high-performance JavaScript and Rust tooling and contribute across the e
 
 * [Oxc](https://oxc.rs): Fastest JavaScript and TypeScript parser, linter, formatter and resolver
 * [Rolldown](https://rolldown.rs) - Fast Rust-based bundler for JavaScript
+* [tsrs](https://github.com/maschwenk/tsrs) - TypeScript compiler and language server written in Rust
 * Performance + correctness improvements across the JavaScript ecosystem
 * [cargo-shear](https://github.com/Boshen/cargo-shear) - Remove unused dependencies from Cargo.toml
 
@@ -31,6 +32,7 @@ If my work has improved your development experience, your CI pipelines, your bui
 
 | npmx.dev | Weekly Downloads |
 | --------- | ---------------- |
+| [tsrs](https://npmx.dev/package/tsrs) | ![NPM Downloads](https://img.shields.io/npm/dw/tsrs?label=npm) |
 | [oxlint](https://npmx.dev/package/oxlint) | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint?label=npm) |
 | [oxlint-tsgolint](https://npmx.dev/package/oxlint-tsgolint) | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint-tsgolint?label=npm) |
 | [oxfmt](https://npmx.dev/package/oxfmt) | ![NPM Downloads](https://img.shields.io/npm/dw/oxfmt?label=npm) |
